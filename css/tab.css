@@ -1,0 +1,35 @@
+
+body{
+    background-color:purple;
+}
+table{
+    
+    width: 600px;
+    border-collapse: collapse;
+    margin-top: 80px;
+    height: 250px;
+    border: mediumvioletred;
+}
+#tb{
+    margin-left: 200px;
+    color: rgb(123, 212, 34);
+    margin-top: 30px;
+}
+tr:nth-of-type(even){
+    background-color: darkgray;
+}
+tr:nth-of-type(odd){
+    background-color: cadetblue;
+}
+#con{
+    margin-top: 20px;
+}
+
+
+
+
+
+  
+
+ 
+   
